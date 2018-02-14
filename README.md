@@ -1,5 +1,9 @@
 # Polkadot technology overview
 
+## Chat
+- [Technical channel](https://riot.im/app/#/room/#polkadot-technical:matrix.org) - Discuss Polkadot implementations.
+- [General channel](https://riot.im/app/#/room/#polkadot-watercooler:matrix.org) - Discuss general Polkadot topics.
+
 ## Writing
 - [Polkadot Medium](https://medium.com/polkadot-network) - Updates on the development and technology articles.
 
