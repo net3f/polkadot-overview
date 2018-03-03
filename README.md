@@ -10,6 +10,7 @@
 ## Specifications
 - [Polkadot White Paper](https://github.com/w3f/polkadot-white-paper/raw/master/PolkaDotPaper.pdf) - General Polkadot description.
 - [Polkadot Spec](https://github.com/w3f/polkadot-spec/blob/master/spec.md) - Working yellow paper style Polkadot specification.
+- [Polkadot Wiki](https://github.com/paritytech/polkadot/wiki) - Set of spec drafts.
 
 ## PoC implementations
 - [Rust](https://github.com/paritytech/polkadot) - Initial Polkadot implementation.
