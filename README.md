@@ -7,6 +7,9 @@
 ## Writing
 - [Polkadot Medium](https://medium.com/polkadot-network) - Updates on the development and technology articles.
 
+## Presentatons
+- [Substrate intro](https://slides.com/paritytech/paritysubstrate#/) - Description of the Substrate, one of the technologies underlying Polkadot.
+
 ## Specifications
 - [Polkadot White Paper](https://github.com/w3f/polkadot-white-paper/raw/master/PolkaDotPaper.pdf) - General Polkadot description.
 - [Polkadot Spec](https://github.com/w3f/polkadot-spec/blob/master/spec.md) - Working yellow paper style Polkadot specification.
