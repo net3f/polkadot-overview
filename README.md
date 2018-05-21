@@ -22,6 +22,7 @@
 ## Component implementations
 - [Parity Bridge](https://github.com/paritytech/parity-bridge) - Bridge between any two ethereum-based networks.
 - [ParityDB](https://github.com/paritytech/paritydb) - Fast and reliable database, optimised for read operations.
+- [wasmi](https://github.com/paritytech/wasmi) - WebAssembly interpreter written in Rust.
 - [Parity WASM](https://github.com/paritytech/parity-wasm) - WebAssembly serialization/deserialization in Rust.
 - [WASM utils](https://github.com/paritytech/wasm-utils) - Collection of WASM utilities used in Parity and WASM contract devepment.
 - [Rust libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of libp2p networking stack.
