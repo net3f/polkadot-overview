@@ -18,6 +18,7 @@
 ## PoC implementations
 - [Rust](https://github.com/paritytech/polkadot) - Initial Polkadot implementation.
 - [JS](https://polkadot.js.org/) - Tools, utilities and client.
+- [POC-1 UI](https://poc-1.polkadot.io/#/) - Browser and apps. 
 
 ## Component implementations
 - [Parity Bridge](https://github.com/paritytech/parity-bridge) - Bridge between any two ethereum-based networks.
