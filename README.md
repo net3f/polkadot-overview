@@ -1,14 +1,15 @@
 # Polkadot technology overview
 
 ## Chat
-- [Technical channel](https://riot.im/app/#/room/#polkadot-technical:matrix.org) - Discuss Polkadot implementations.
 - [General channel](https://riot.im/app/#/room/#polkadot-watercooler:matrix.org) - Discuss general Polkadot topics.
 
 ## Writing
 - [Polkadot Medium](https://medium.com/polkadot-network) - Updates on the development and technology articles.
 
-## Presentatons
-- [Substrate intro](https://slides.com/paritytech/paritysubstrate#/) - Description of the Substrate, one of the technologies underlying Polkadot.
+## Presentations
+- [Polkadot Overview](https://youtu.be/lIghiCmHz0U) - Dr. Gaving Wood presents an overview of Polkadot. 
+- [Substrate Intro](https://youtu.be/iUMZyL5kTwc) - Dr. Gavin Wood presents Substrate, one of the technologies underlying Polkadot.
+- [Governance Demo](https://www.youtube.com/watch?v=VsZuDJMmVPY&feature=youtu.be&t=24734) - Dr. Gavin Wood presents the initial governance structure for Polkadot. 
 
 ## Specifications
 - [Polkadot White Paper](https://github.com/w3f/polkadot-white-paper/raw/master/PolkaDotPaper.pdf) - General Polkadot description.
