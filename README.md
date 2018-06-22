@@ -2,7 +2,7 @@
 
 ## Guides
 - [Polkadot UI](https://github.com/paritytech/polkadot/wiki/Polkadot-UI) - Get started on the testnet.
-- [Validating](https://github.com/paritytech/polkadot/wiki/Validating-on-PoC-1) - Set-up a validator on testnet.
+- [Validating](https://github.com/paritytech/polkadot/wiki/Validating-on-PoC-1) - Set-up a validator on the testnet.
 - [Governance](https://github.com/paritytech/polkadot/wiki/Governance) - Overview of governance system.
 
 ## Presentations
