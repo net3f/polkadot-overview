@@ -4,8 +4,8 @@
 - [Riot](https://riot.im/app/#/room/#polkadot-watercooler:matrix.org) - Discuss general Polkadot topics.
 - [Reddit](https://www.reddit.com/r/polkadot_io) - Share content, tools, and updates. 
 - [Medium](https://medium.com/polkadot-network) - Updates on the development and technology articles.
-- [Unofficial Telegram](https://t.me/polkadot_trollbox) - Discuss general Polkadot topics, including market-related discussion.
-- [Unofficial Reddit](https://www.reddit.com/r/polkadot_market) - Market-related discussion.
+- [Community-led Telegram](https://t.me/polkadot_trollbox) - Discuss general Polkadot topics, including market-related discussion.
+- [Community-led Reddit](https://www.reddit.com/r/polkadot_market) - Market-related discussion.
 
 ## Guides
 - [Polkadot UI](https://github.com/paritytech/polkadot/wiki/Polkadot-UI) - Get started on the testnet.
