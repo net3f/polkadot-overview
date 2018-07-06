@@ -1,5 +1,12 @@
 # Polkadot technology overview
 
+## Community
+- [Riot](https://riot.im/app/#/room/#polkadot-watercooler:matrix.org) - Discuss general Polkadot topics.
+- [Reddit](https://www.reddit.com/r/polkadot_io) - Share content, tools, and updates. 
+- [Medium](https://medium.com/polkadot-network) - Updates on the development and technology articles.
+- [Unofficial Telegram](https://t.me/polkadot_trollbox) - Discuss general Polkadot topics, including market-related discussion.
+- [Unofficial Reddit](https://www.reddit.com/r/polkadot_market) - Market-related discussion.
+
 ## Guides
 - [Polkadot UI](https://github.com/paritytech/polkadot/wiki/Polkadot-UI) - Get started on the testnet.
 - [Validating](https://github.com/paritytech/polkadot/wiki/Validating-on-PoC-1) - Set-up a validator on the testnet.
@@ -27,9 +34,3 @@
 - [Parity WASM](https://github.com/paritytech/parity-wasm) - WebAssembly serialization/deserialization in Rust.
 - [WASM utils](https://github.com/paritytech/wasm-utils) - Collection of WASM utilities used in Parity and WASM contract devepment.
 - [Rust libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of libp2p networking stack.
-
-## Chat
-- [General channel](https://riot.im/app/#/room/#polkadot-watercooler:matrix.org) - Discuss general Polkadot topics.
-
-## Writing
-- [Polkadot Medium](https://medium.com/polkadot-network) - Updates on the development and technology articles.
